@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently studying computer engineering ...
 - 🌱 I’m currently learning programming...
-- 📫 How to reach me: [<img align="left" alt="RAHAF | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+- 📫 How to reach me: 
+  - [<img align="left" alt="RAHAF | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 - ⚡ Fun fact: I love cats 🐈
 <br />
 
@@ -19,6 +19,7 @@
 
 <br/>
 <br/>
+
 
 
 [linkedin]: https://www.linkedin.com/in/rahafalmusleh/
