@@ -22,7 +22,11 @@
 <br/>
 
  ### 📫 How to reach me: 
- [<img align="left" alt="RAHAF | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]: https://www.linkedin.com/in/rahafalmusleh/
+[<img align="left" alt="RAHAF | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="RAHAF | CodeWars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />][codewars]
+
+[linkedin]: https://www.linkedin.com/in/rahafalmusleh/
+[CodeWars]: https://www.codewars.com/users/VRah
 
 
 <p align="center">
