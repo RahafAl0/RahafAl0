@@ -23,8 +23,8 @@
 
  ### 📫 How to reach me: 
  
-[![Linkedin Badge](https://img.shields.io/badge/-knightsarai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahafalmusleh/)](https://www.linkedin.com/in/rahafalmusleh/)
-[linkedin]: https://www.linkedin.com/in/rahafalmusleh/
+[![Linkedin Badge](https://img.shields.io/badge/-rahafalmusleh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahafalmusleh/)](https://www.linkedin.com/in/rahafalmusleh/)
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahafAl0&layout=compact&langs_count=6&theme=tokyonight&hide=html,css,Dockerfile,scss" alt="RahafAl0 :: Top Langs" />
