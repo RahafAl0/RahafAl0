@@ -31,6 +31,11 @@
 [CodeWars]: https://www.codewars.com/users/VRah
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knightSarai&layout=compact&langs_count=6&theme=tokyonight&hide=html,css,Dockerfile,scss" alt="knightSarai :: Top Langs" />
+ </p>
+
+
 
 
 
