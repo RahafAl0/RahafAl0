@@ -23,13 +23,8 @@
 
  ### 📫 How to reach me: 
  
- 
-[<img align="left" alt="RAHAF | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="RAHAF | CodeWars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />][codewars]
 
 [linkedin]: https://www.linkedin.com/in/rahafalmusleh/
-[CodeWars]: https://www.codewars.com/users/VRah
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahafAl0&layout=compact&langs_count=6&theme=tokyonight&hide=html,css,Dockerfile,scss" alt="RahafAl0 :: Top Langs" />
