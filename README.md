@@ -23,7 +23,7 @@
 
  ### 📫 How to reach me: 
  
-
+[![Linkedin Badge](https://img.shields.io/badge/-knightsarai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahafalmusleh/)](https://www.linkedin.com/in/rahafalmusleh/)
 [linkedin]: https://www.linkedin.com/in/rahafalmusleh/
 
 <p align="center">
