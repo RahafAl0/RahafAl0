@@ -22,8 +22,7 @@
 <br/>
 
  ### 📫 How to reach me: 
- [<img align="left" alt="RAHAF | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[linkedin]: https://www.linkedin.com/in/rahafalmusleh/
+ [<img align="left" alt="RAHAF | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]: https://www.linkedin.com/in/rahafalmusleh/
 
 
 <p align="center">
