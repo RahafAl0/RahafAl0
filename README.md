@@ -22,7 +22,7 @@
 <br/>
 
  ### 📫 How to reach me: 
-<div align="center">
+<div align="left">
     <a href = "https://www.linkedin.com/in/rahafalmusleh/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </div>
 
