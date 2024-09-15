@@ -22,10 +22,9 @@
 <br/>
 
  ### 📫 How to reach me: 
-[<img align="left" alt="RAHAF | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/rahafalmusleh/
-
+<div align="center">
+    <a href = "https://www.linkedin.com/in/rahafalmusleh/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahafAl0&layout=compact&langs_count=6&theme=tokyonight&hide=html,css,Dockerfile,scss" alt="RahafAl0 :: Top Langs" />
